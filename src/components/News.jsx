@@ -1,5 +1,5 @@
 import nilam from "../../assets/images/nilam.jpg";
-import nilam1 from "../../assets/images/nilam1.jpg";
+import nilam1 from "../../assets/images/Nilam1.jpg";
 import nilam2 from "../../assets/images/nilam2.jpg";
 import nilam3 from "../../assets/images/nilam3.jpg";
 import nilam4 from "../../assets/images/nilam4.jpg";
