@@ -1,10 +1,9 @@
-import nilam from "../assets/images/nilam.jpg";
-import nilam1 from "../assets/images/nilam1.jpg";
-import nilam2 from "../assets/images/nilam2.jpg";
-import nilam3 from "../assets/images/nilam3.jpg";
-import nilam4 from "../assets/images/nilam4.jpg";
-import nilam5 from "../assets/images/nilam5.jpg";
-
+import nilam from "../../assets/images/nilam.jpg";
+import nilam1 from "../../assets/images/nilam1.jpg";
+import nilam2 from "../../assets/images/nilam2.jpg";
+import nilam3 from "../../assets/images/nilam3.jpg";
+import nilam4 from "../../assets/images/nilam4.jpg";
+import nilam5 from "../../assets/images/nilam5.jpg";
 const News = () => {
   return (
     <div className="bg-gray-50 pb-10">
